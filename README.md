@@ -27,12 +27,10 @@ It highlights sales distribution, customer behavior, product categories, and pre
 🔹 Dashboard Preview
 
 [Zepto Sales Dashboard](Zepto_sales_dashboard.png)
-
 🔹 How to Use
 1. Download the Tableau file (`.twbx`) from this repository.   
 2. Interact with filters for categories and regions.  
-
 🔹 Author
-👤 *Jeeva S*
- [LinkedIn](www.linkedin.com/in/jeeva-soundharraj)  
+👤 Jeeva S
+LinkedIn: www.linkedin.com/in/jeeva-soundharraj  
  
