@@ -33,9 +33,6 @@ It highlights sales distribution, customer behavior, product categories, and pre
 2. Interact with filters for categories and regions.  
 
 🔹 Author
-
 👤 *Jeeva S*
  [LinkedIn](www.linkedin.com/in/jeeva-soundharraj)  
-
-
-- 
+ 
